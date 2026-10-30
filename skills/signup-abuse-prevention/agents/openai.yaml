@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signup Abuse Prevention"
+  short_description: "Stop bot signups, fake usage, and email reputation damage"
+  default_prompt: "Use $signup-abuse-prevention to review my signup flow and recommend a small set of controls against bot signups, fake usage statistics, and email spam flags."
